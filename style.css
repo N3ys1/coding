@@ -1,0 +1,12 @@
+#app´{
+    background-color: aliceblue;
+}
+.line{
+    height: 6px;
+    background-color: rgb(48, 22, 192);
+    width: 1000px;
+    margin: 8px auto;
+}
+#game{
+    background-color: lightcoral;
+}
